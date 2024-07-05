@@ -13,10 +13,9 @@
 
  - Sdl2 installation
 download the installation script [install_SDL2.sh](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/graphics_programming/install_SDL2.sh) and run it in your ubuntu Terminal as follows:
-root@h:cd ~/Downloads$ ls
-install_SDL2.sh
-root@h:cd ~/Downloads$chmod 755 install_SDL2.sh
-root@h:cd ~/Downloads$sudo ./install_SDL2.sh
+-root@h:cd ~/Downloads$ lsinstall_SDL2.sh
+-root@h:cd ~/Downloads$chmod 755 install_SDL2.sh
+-root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 
 # Play the game
  - clone the [github repository](https://github.com/Seankihiu/The_Maze)
@@ -35,14 +34,9 @@ gcc -o The_Maze src/*.c -lSDL2 -lSDL2_image
 
 # Flow chart
 ![Capture](https://user-images.githubusercontent.com/88714347/171421868-d6a7a3d6-6acd-495e-9506-7ab381bba5a4.JPG)
-# project Demo
- [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
+
 # Authors
-- Susinios legesse(https://github.com/Susiniosgit)
-- Sentayehu Tilahun(https://github.com/sentayehut)
-- Ephrem Abebe(https://github.com/ephayeabe)
-
-
+Sean Kihiu - seankihiu45@gmail.com
 
 
 
