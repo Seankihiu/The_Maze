@@ -10,7 +10,10 @@ Linux/ubuntu or Macos
 SDL2 and its sdl_image
 Installation
 
-Sdl2 installation download the installation script install_SDL2.sh and run it in your ubuntu Terminal as follows: root@h:cd ~/Downloads$ ls install_SDL2.sh root@h:cd ~/Downloads$chmod 755 install_SDL2.sh root@h:cd ~/Downloads$sudo ./install_SDL2.sh
+Sdl2 installation download the installation script install_SDL2.sh and run it in your ubuntu Terminal as follows: 
+root@h:cd ~/Downloads$ ls install_SDL2.sh 
+root@h:cd ~/Downloads$chmod 755 install_SDL2.sh 
+root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 Play the game
 
 clone the github repository
