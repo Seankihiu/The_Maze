@@ -32,9 +32,6 @@ gcc -o The_Maze src/*.c -lSDL2 -lSDL2_image
  left arrow key - to rotate the player in counter clock wise direction
  right arrow key - to rotate the player in clock wise direction
 
-# Flow chart
-![Capture](https://user-images.githubusercontent.com/88714347/171421868-d6a7a3d6-6acd-495e-9506-7ab381bba5a4.JPG)
-
 # Authors
 Sean Kihiu - seankihiu45@gmail.com
 
