@@ -164,7 +164,7 @@ char **str_split(char *str, char *del)
 		tokens_size++;
 	}
 	/** add the terminate character of the string **/
-	tokens[i] = '\0';
+	tokens[i] = NULL;
 	if (token)
 		free(token);
 	if (str2)
