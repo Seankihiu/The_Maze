@@ -22,7 +22,7 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
  - clone the [github repository](https://github.com/Seankihiu/The_Maze)
  - Compile all .c files in the maze directory:
   ```
-  gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm $(sdl2-config --cflags --libs) -lSDL_image -o maze
+gcc -o The_Maze src/*.c -lSDL2 -lSDL2_image
    ```
  - Execute ./The_Maze and play game.
  - Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
